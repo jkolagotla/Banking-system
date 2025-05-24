@@ -8,3 +8,5 @@ The Banking System Project was developed using Eclipse IDE, utilizing Java Servl
 24-07-31 230943](https://github.com/user-attachments/assets/28cd6ff0-ec3![Screenshot 2024-07-31 232425](https://github.com/user-attachments/assets/898a69c6-c9e7-42e0-a688-53a9d9886b69)
 4-4ffe-8414-b823c38afb9a)
 ![Screenshot 2024-07-31 124748](https://github.com/user-attachments/assets/59793da3-cfae-43a7-a8b1-6ddd7f8cf978)
+![Screenshot 2024-07-31 232425](https://github.com/user-attachments/assets/fed61cda-1df5-4d98-ba40-f1045ad2b546)
+![Screenshot 2024-07-31 230821](https://github.com/user-attachments/assets/7a4bb7a5-bf45-4c10-b5f3-d875fbec08cd)
